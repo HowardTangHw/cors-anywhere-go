@@ -1,1 +1,1 @@
-# -cors-anywhere-go
+# cors-anywhere-go
